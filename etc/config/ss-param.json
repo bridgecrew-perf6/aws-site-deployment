@@ -1,0 +1,18 @@
+[
+    {
+      "ParameterKey": "KeyName",
+      "ParameterValue": "ec2utsa"
+    },    
+    {
+      "ParameterKey": "myVPC",
+      "ParameterValue": "vpc-06ee76b82032ca339"
+    },
+    {
+      "ParameterKey": "PublicSubnet",
+      "ParameterValue": "subnet-0af1cafaaaac89cf1"
+    },
+    {
+      "ParameterKey": "AMItoUse",
+      "ParameterValue": "ami-0ca05c6eaa4ac40e0"
+    }
+]
